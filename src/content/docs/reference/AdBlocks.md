@@ -15,7 +15,7 @@ Ads can get in the way, especially on sites like downloading sites, where they'r
 
 Picking the right Ad Blocker is also important, as a good bit of Ad Blocks tend to be detected by sites, and they may out right block you from using the site if you use an Ad Block that is detected. 
 
-## Web/Extension Ad Blockers
+## Web/Extension
 
 - 🐐 [UBlock Origin<img src="/src/assets/ublockorigin.png" style="display:inline; width:14px;">](https://ublockorigin.com/)
 - 🐐 [SponsorBlock<img src="/src/assets/sponsorblock.png" style="display:inline; width:14px;">](https://sponsor.ajay.app/)
@@ -33,14 +33,14 @@ The only other good alternative for UBlock is [AdGuard<img src="/src/assets/adgu
 
 If you're looking for something to block Sponsors in youtube, or generally skip filler in youtube videos, check out [SponsorBlock<img src="/src/assets/sponsorblock.png" style="display:inline; width:14px;">](https://sponsor.ajay.app/).
 
-## Android Ad Blockers
+## Android
 
 - [AdAway<img src="/src/assets/adaway.png" style="display:inline; width:14px;">](https://adaway.org/)
 - [AdGuard<img src="/src/assets/adguard.png" style="display:inline; width:14px;">](https://adguard.com/en/adguard-android/overview.html)
 
 Ad blocking on Android is a mixed bag, as there really isn't any good option in my experience. At best, they only block some ads, and at worst they make it impossible to connect to some things requiring you to have to turn it off and on later.
 
-## IPhone Ad Blockers
+## IPhone
 
 **W.I.P**
 
