@@ -15,8 +15,8 @@ description: A list of programs or apps.
 
 ### Download Managers
 
-- 🐐 [AB Download Manager<img src="/src/assets/abdownload.png" style="display:inline; width:14px;">](https://abdownloadmanager.com/)
-- [IDM<img src="/src/assets/IDM.png" style="display:inline; width:14px;">](https://www.internetdownloadmanager.com/) - [Reset Trial](https://github.com/J2TEAM/idm-trial-reset)
+- 🐐 [AB Download Manager<img src="/public/assets/abdownload.png" style="display:inline; width:14px;">](https://abdownloadmanager.com/)
+- [IDM<img src="/assets/IDM.png" style="display:inline; width:14px;">](https://www.internetdownloadmanager.com/) - [Reset Trial](https://github.com/J2TEAM/idm-trial-reset)
 - [JDownloader<img src="/src/assets/jdownloader.png" style="display:inline; width:14px;">](https://jdownloader.org/)
 
 Download Managers are useful for downloading large files faster by using multiple threads among other useful optimizations.
