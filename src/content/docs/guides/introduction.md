@@ -10,6 +10,6 @@ If you want more information on specific areas, go to the sections listed below.
 ## Sections
 
 - [Ad blockers](../../reference/adblocks) (Blocking ads and skipping link shorteners)
-- [Apps/Programs](./reference/apps) (Useful Apps and Programs)
-- [Client Mods](../reference/clientmods) (Mods and Extensions for specific sites)
-- [Piracy](../reference/piracy) (Piracy Sites)
+- [Apps/Programs](../../reference/apps) (Useful Apps and Programs)
+- [Client Mods](../../reference/clientmods) (Mods and Extensions for specific sites)
+- [Piracy](../../reference/piracy) (Piracy Sites)
