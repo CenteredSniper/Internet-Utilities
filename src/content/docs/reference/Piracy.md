@@ -55,6 +55,7 @@ Recommended: [FastStream](/reference/clientmods/#webextensions-1)
 - [Animepahe](https://animepahe.ru/)
 
 Recommended: [FastStream](/reference/clientmods/#webextensions-1)
+
 Animepahe is better for faststream support for subs.
 
 ### Comics/Manga/Manwha
