@@ -3,7 +3,7 @@ title: Piracy
 description: A page all about piracy, and the wonders of it.
 ---
 
-Please use an [Ad Block](http://localhost:4321/reference/adblocks/) while browsing piracy sites, as they typically use unsafe or nsfw ads that may disturb your browsing.
+Please use an [Ad Block](/reference/adblocks) while browsing piracy sites, as they typically use unsafe or nsfw ads that may disturb your browsing.
 
 ## Sources
 
